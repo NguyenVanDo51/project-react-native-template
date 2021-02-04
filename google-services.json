@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109421031875",
+    "firebase_url": "https://toliha-ed4e8.firebaseio.com",
+    "project_id": "toliha-ed4e8",
+    "storage_bucket": "toliha-ed4e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109421031875:android:8caaffed115a63edf98d76",
+        "android_client_info": {
+          "package_name": "com.toliha.tolihamobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109421031875-7j356m48heajk6hu2car0uk7r9i284du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAbaWCcWNFfPQ0sEJqWHPeVPqxdwFVJ8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109421031875-7j356m48heajk6hu2car0uk7r9i284du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
